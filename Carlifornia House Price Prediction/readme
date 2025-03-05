@@ -1,1 +1,5 @@
-
+California house dataset analysis
+----------------------------------
+I have attached the dataset, the model pickel and two notebooks,(Carlifornia.ipynb-with column feature engineering/new-carli-no features engineered)
+If there are some modifications to this particular notebook you'd like to do ,please do a pull request and I'll realy appreciate any 
+contribution to the notebook.
